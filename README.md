@@ -1,4 +1,4 @@
-Just forket to use it with steemlogin instead of steemconnect
+Just forked to use it with steemlogin instead of steemconnect
 
 
 #### Installation
