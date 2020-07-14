@@ -1,5 +1,5 @@
 from flask import Flask, request
-from steemconnect.client import Client
+from steemlogin.client import Client
 
 app = Flask(__name__)
 
@@ -16,7 +16,7 @@ def index():
         "http://localhost:5000/welcome",
         "login",
     )
-    return "<a href='%s'>Login with SteemConnect</a>" % login_url
+    return "<a href='%s'>Login with Steemlogin</a>" % login_url
 
 
 @app.route('/welcome')
