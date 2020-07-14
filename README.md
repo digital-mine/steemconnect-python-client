@@ -1,9 +1,10 @@
-steemconnect-python-client is a simple yet powerful library to interact with the [Steemconnect](https://steemconnect.com). There was no *production ready* library for Python (Or I couldn't find it.) so I have decided to write my own.
+Just forket to use it with steemlogin instead of steemconnect
+
 
 #### Installation
 
 ```
-$ (sudo) pip install steemconnect
+COMING SOON
 ```
 
 #### Documentation
