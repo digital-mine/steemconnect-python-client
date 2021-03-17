@@ -1,13 +1,13 @@
 from setuptools import setup
 
 setup(
-    name='steemconnect',
+    name='steemlogin',
     version='0.0.6',
-    packages=['steemconnect'],
+    packages=['steemlogin'],
     url='https://github.com/emre/steemconnect',
     license='MIT',
-    author='Emre Yilmaz',
-    author_email='mail@emreyilmaz.me',
-    description='Python client library of SteemConnect',
+    author='digital-mine',
+    author_email='digitalmine23@gmail.com',
+    description='Python client library of SteemLogin',
     install_requires=["requests", "responses"]
 )
